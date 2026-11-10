@@ -20,8 +20,9 @@
 - [Plumbing Repair Harker Heights](https://local-business-guides.github.io/curtis-and-sons-plumbing-harker-heights/plumbing-repair-harker-heights/): Need a Plumbing Repair Harker Heights residents can ask about? Get help sorting the next step in Harker Heights. Call Curtis & Sons Plumbing today.
 - [Emergency Plumber Harker Heights](https://local-business-guides.github.io/curtis-and-sons-plumbing-harker-heights/emergency-plumber-harker-heights/): Call an Emergency Plumber Harker Heights homeowners can reach to discuss the issue and next steps. Contact Curtis & Sons Plumbing in Harker Heights.
 - [Top Plumber Tx in Harker Heights](https://local-business-guides.github.io/curtis-and-sons-plumbing-harker-heights/top-plumber-tx-in-harker-heights/): Find plumbing help with Top Plumber Tx in Harker Heights, get clear next-step guidance for your home, and call Curtis & Sons Plumbing in Harker Heights today.
-- [Best Plumber Tx Harker Heights | Curtis & Sons](https://local-business-guides.github.io/curtis-and-sons-plumbing-harker-heights/best-plumber-tx-harker-heights/): Searching for Best Plumber Tx Harker Heights? Get a clear next step for a plumbing concern in Harker Heights. Call Curtis & Sons Plumbing today.
-- [Top Rated Plumber Tx Harker Heights | Curtis & Sons](https://local-business-guides.github.io/curtis-and-sons-plumbing-harker-heights/top-rated-plumber-tx-harker-heights/): Need a Top Rated Plumber Tx Harker Heights? Get help discussing your plumbing needs in Harker Heights. Call Curtis & Sons Plumbing to get started.
+
+## Newsroom
+- [Harker Heights Plumbing Business Shares Local Guide in Four Formats](https://local-business-guides.github.io/curtis-and-sons-plumbing-harker-heights/news/2026-11-10-harker-heights-plumbing-business-shares-local/): Curtis & Sons Plumbing has published a guide about Plumber In Harker Heights TX, with a YouTube video, podcast episode and SoundCloud audio version. (2026-11-10)
 
 ## Pages
 - [Plumber in Harker Heights, Texas](https://local-business-guides.github.io/curtis-and-sons-plumbing-harker-heights/): Get practical plumbing help and a clear way to reach us in Harker Heights. Call +1254-271-0541.
@@ -30,3 +31,4 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/curtis-and-sons-plumbing-harker-heights/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/curtis-and-sons-plumbing-harker-heights/news/rss.xml)
